@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="MyForm" name="MyForm">
+  <component type="SpanLabel" text="Email" name="Span_Label_1">
+  </component>
+  <component type="TextField" text="TextField" name="Text_Field_1">
+  </component>
+  <component type="SpanLabel" text="Mot De Passe" name="Span_Label_2">
+  </component>
+  <component type="TextField" text="TextField" name="Text_Field_2">
+  </component>
+  <component type="Button" text="Se Connecter" name="Button_1" actionEvent="true">
+  </component>
+</component>
