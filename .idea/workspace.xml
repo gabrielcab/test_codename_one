@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e40ca6f-dfa8-4e9a-9f49-2e85c3cb93a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mycompany/myapp/course/DiscaFactory.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/readme.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JavaSE.jar" afterPath="$PROJECT_DIR$/JavaSE.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/CLDC11.jar" afterPath="$PROJECT_DIR$/lib/CLDC11.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/CodenameOne.jar" afterPath="$PROJECT_DIR$/lib/CodenameOne.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/CodenameOne_SRC.zip" afterPath="$PROJECT_DIR$/lib/CodenameOne_SRC.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/MyApplication.class" afterPath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/MyApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/MyForm$EventCallbackClass.class" afterPath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/MyForm$EventCallbackClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/MyForm.class" afterPath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/MyForm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/Tabbed.class" afterPath="$PROJECT_DIR$/out/production/finaltest/com/mycompany/myapp/Tabbed.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/finaltest/theme.res" afterPath="$PROJECT_DIR$/out/production/finaltest/theme.res" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme.res" afterPath="$PROJECT_DIR$/src/theme.res" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codenameone_settings.properties" afterPath="$PROJECT_DIR$/codenameone_settings.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mycompany/myapp/MyApplication.java" afterPath="$PROJECT_DIR$/src/com/mycompany/myapp/MyApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mycompany/myapp/MyForm.java" afterPath="$PROJECT_DIR$/src/com/mycompany/myapp/MyForm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mycompany/myapp/Tabbed.java" afterPath="$PROJECT_DIR$/src/com/mycompany/myapp/Tabbed.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -572,6 +556,14 @@
       <option name="presentableId" value="Default" />
       <updated>1498002419581</updated>
     </task>
+    <task id="LOCAL-00001" summary="13 juillet">
+      <created>1499964528416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1499964528416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -650,7 +642,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="13 juillet" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 juillet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
