@@ -35,7 +35,7 @@ public class MyApplication {
             current.show();
             return;
         }
-        new MyForm().show();
+        new Inscription(theme).show();
     }
 
     public void stop() {
@@ -48,5 +48,6 @@ public class MyApplication {
     
     public void destroy() {
     }
+
 
 }

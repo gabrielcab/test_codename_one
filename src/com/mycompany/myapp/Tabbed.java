@@ -1,4 +1,7 @@
 package com.mycompany.myapp;
+
+import com.codename1.ui.Button;
+
 public class Tabbed extends com.codename1.ui.Form {
     public Tabbed() {
         this(com.codename1.ui.util.Resources.getGlobalResources());
@@ -19,4 +22,5 @@ public class Tabbed extends com.codename1.ui.Form {
     }// </editor-fold>
 
 //-- DON'T EDIT ABOVE THIS LINE!!!
+
 }

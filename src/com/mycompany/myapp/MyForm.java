@@ -1,10 +1,12 @@
 package com.mycompany.myapp;
 
 import com.codename1.ui.events.ActionEvent;
+import com.codename1.ui.util.Resources;
 
 public class MyForm extends com.codename1.ui.Form {
     public MyForm() {
         this(com.codename1.ui.util.Resources.getGlobalResources());
+        this.setUIID("SignUpForm");
     }
     
     public MyForm(com.codename1.ui.util.Resources resourceObjectInstance) {
@@ -12,7 +14,8 @@ public class MyForm extends com.codename1.ui.Form {
     }
 
     public void onButton_1ActionEvent(ActionEvent ev) {
-        new Tabbed().show();
+        Resources res=null;
+        new MesCartes(this,res).show();
     }
 
     //-- DON'T EDIT BELOW THIS LINE!!!
