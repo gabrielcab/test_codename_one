@@ -1,0 +1,17 @@
+<carteSimple>
+  <titre>Vocabulaire anglais</titre>
+  <recto>
+    <res>
+      <img url="res/a brief.jpg"/>
+    </res>
+  </recto>
+  <verso>
+    <texte>
+      <li>a brief
+      </li>
+    </texte>
+    <res>
+      <audio url="res/a briel.mp3"/>
+    </res>
+  </verso>
+</carteSimple>

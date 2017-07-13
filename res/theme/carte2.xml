@@ -1,0 +1,13 @@
+<carteSimple>
+  <titre>La familia</titre>
+  <recto>
+    <res>
+      <img url="res/Abuelos 1.jpeg"/>
+   </res>
+  </recto>
+  <verso>
+    <res>
+      <img url="res/Abuelos 2.jpeg"/>
+    </res>
+  </verso>
+</carteSimple>

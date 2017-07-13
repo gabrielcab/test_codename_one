@@ -1,0 +1,38 @@
+<carteSimple>
+  <titre>Le zodiaque</titre>
+  <recto>
+    <texte>
+      <li>Remettre les constellations suivantes dans l'ordre :
+      </li>
+    </texte>
+    <res>
+      <img url="res/Capricorne-stellarium-002-1.png"/>
+    </res>
+    <res>
+      <img url="res/Scorpion-stellarium-002-1.png"/>
+    </res>
+    <res>
+      <img url="res/Serpentaire-stellarium-002-1.png"/>
+    </res>
+    <res>
+      <img url="res/Verseau-stellarium-002-1.png"/>
+    </res>
+    <res>
+      <img url="res/Sagittaire-stellarium-002-1.png "/>
+    </res>
+  </recto>
+  <verso>
+    <texte>
+      <li>
+      </li>
+      <li>
+      </li>
+    </texte>
+    <res>
+      <img url="res/Sagittaire-zodiaque-stellarium-006 (1).png"/>
+    </res>
+  </verso>
+</carteSimple>
+             
+            
+  

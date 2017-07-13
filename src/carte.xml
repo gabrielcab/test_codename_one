@@ -1,0 +1,20 @@
+<carteSimple>
+  <titre>Vocabulaire espagnol</titre>
+  <recto>
+    <texte>
+      <li>
+	La voiture
+      </li>
+    </texte>
+  </recto>
+  <verso>
+    <texte>
+      <li>
+	El coche
+      </li>
+      <li>
+	El automobil
+      </li>
+    </texte>
+  </verso>
+</carteSimple>

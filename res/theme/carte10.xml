@@ -1,0 +1,22 @@
+<carteSimple>
+  <titre>Jazz d'aujourd'hui</titre>
+  <recto>
+    <texte>
+      <li>Reconnaître le morceau suivant
+      </li>
+    </texte>
+    <res>
+      <audio url="res/1 - Piste 1.flac"/>
+    </res>
+  </recto>
+  <verso>
+    <texte>
+      <li>At home Duo
+      </li>
+    </texte>
+    <texte>
+      <li>Ephémère
+      </li>
+    </texte>
+  </verso>
+</carteSimple>

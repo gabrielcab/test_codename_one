@@ -1,0 +1,21 @@
+<carteSimple>
+  <titre>Les sons de la nature</titre>
+  <recto>
+    <texte>
+      <li>Reconnaître les oiseaux
+      </li>
+    </texte>
+    <res>
+      <audio url="res/IMAG0507.wav"/>
+    </res>
+  </recto>
+  <verso>
+    <res>
+       <video url="res/IMAG0507.AVI"/>
+    </res>
+    <texte>
+      <li>Chellal, Rabat, 2017
+      </li>
+    </texte>
+  </verso>
+</carteSimple>

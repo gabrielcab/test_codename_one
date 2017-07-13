@@ -1,0 +1,26 @@
+<carteSimple>
+  <titre>Les bruits de la nature</titre>
+  <recto>
+    <texte>
+      <li>D'où provient le bruit suivant ?
+      </li>
+    </texte>
+    <res>
+      <img url="res/renewable energy.jpg"/>
+    </res>
+    <res>
+      <audio url="res/a ceiling fan sound.ogg"/>
+    </res>
+  </recto>
+  <verso>
+    <texte>
+      <li>
+	Un ventilateur au plafond
+      </li>
+    </texte>
+    <res>
+      <img url="res/a ceiling fan.gif"/>
+    </res>
+  </verso>
+</carteSimple>
+    

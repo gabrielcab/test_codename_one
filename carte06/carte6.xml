@@ -1,0 +1,17 @@
+<carteSimple>
+  <titre>Compréhension orale</titre>
+  <recto>
+    <res>
+      <audio url="res/abseil.ogg"/>
+    </res>
+    <res>
+      <audio url="res/abseiling.mp3"/>
+    </res>
+  </recto>
+  <verso>
+    <texte>
+      <li>abseil / abseiling 
+      </li>
+    </texte>
+   </verso>
+</carteSimple>

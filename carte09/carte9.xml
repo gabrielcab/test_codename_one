@@ -1,0 +1,13 @@
+<carteSimple>
+  <titre>Los colores</titre>
+  <recto>
+    <res>
+      <img url="res/naranja 2.png"/>
+    </res>
+  </recto>
+  <verso>
+    <res>
+      <img url="res/naranja 1.png"/>
+    </res>
+  </verso>
+</carteSimple>

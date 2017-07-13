@@ -1,0 +1,25 @@
+<carteSimple>
+  <titre>Expressions anglaises</titre>
+  <recto>
+   <res>
+      <video url="res/VID_20170216_182156.mp4"/>
+    </res>
+  </recto>
+  <verso>
+    <texte>
+      <li>A hunting dog
+      </li>
+    </texte>
+    <res>
+      <audio url="res/a hunting dog.ogg"/>
+    </res>
+    <texte>
+      <li>To walk your dog
+      </li>
+    </texte>
+    <res>
+      <audio url="res/to walk your dog.ogg"/>
+    </res>
+  </verso>
+</carteSimple>
+    
